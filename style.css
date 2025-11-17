@@ -1,0 +1,9 @@
+.tab-button.active {
+  background-color: lightpink;
+}
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
